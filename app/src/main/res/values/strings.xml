@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="dice_number">1</string>
+    <string name="roll">Roll</string>
+    <string name="button_toast_text">dice rolled</string>
+    <string name="button_text">Click me</string>
+    <string name="dice_content_description">This is a dice</string>
+</resources>
